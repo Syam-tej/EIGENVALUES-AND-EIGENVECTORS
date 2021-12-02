@@ -10,7 +10,7 @@ Get the matrix from the user.
 ### Step 2: 
 Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 3: 
-Print the two results (Eigen values and Eigen vectors).
+Print the two results (Eigen value and Eigen vectors).
 ### Step 4: 
 End of the program.
 
